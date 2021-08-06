@@ -11,3 +11,4 @@ craftingTable.addShaped("stone_pickaxe", <item:minecraft:stone_pickaxe>, [
 furnace.removeRecipe(<item:minecraft:iron_ingot>);
 blastFurnace.removeRecipe(<item:minecraft:iron_ingot>);
 furnace.removeRecipe(<item:minecraft:gold_ingot>);
+blastFurnace.removeRecipe(<item:minecraft:gold_ingot>);

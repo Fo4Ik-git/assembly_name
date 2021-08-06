@@ -19,3 +19,7 @@ craftingTable.addShaped("seared_drain", <item:tconstruct:seared_drain>, [
 [<item:minecraft:iron_ingot>,<item:minecraft:air>,<item:minecraft:iron_ingot>],
 [<item:tconstruct:seared_brick>,<item:minecraft:air>,<item:tconstruct:seared_brick>]
 ]);
+
+
+furnace.removeRecipe(<item:tconstruct:copper_ingot>);
+blastFurnace.removeRecipe(<item:tconstruct:copper_ingot>);
